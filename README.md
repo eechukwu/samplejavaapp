@@ -1,4 +1,2 @@
-
-Sample Java Applicaiton V1.7
-ravi change
+Updated by Emmanuel C
 
